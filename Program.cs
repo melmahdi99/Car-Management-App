@@ -183,13 +183,14 @@ class Program
             {
                 Console.WriteLine("Enter the car year:");
                 var year = Console.ReadLine();
-                var carsOfACertainYear = carList.Where(c => c.Year == year).ToList();
+                var carsOfACertainYear = carList.Where(c => c.Year == year);
                 var table = new ConsoleTable("ID", "Make", "Model", "Year", "Price");
                 foreach (Car car in carsOfACertainYear)
                 {
                     table.AddRow(car.Id, car.Make, car.Model, car.Year, car.Price);
-                    table.Write();
+                    
                 }
+                table.Write();
 
             }
             // {
