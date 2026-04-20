@@ -212,7 +212,7 @@ class Program
                 running = false;
             }
 
-            else Console.WriteLine("Please enter a valid number--1, 2, or 3.");
+            //else Console.WriteLine("Please enter a valid number--1, 2, or 3.");
         }
     }
 }
