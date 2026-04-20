@@ -1,0 +1,6 @@
+{"Make":"Honda","Model":"Civic","Year":"2020","Price":10000,"Id":"c05705ec-f320-4692-b014-67ba6ca78114"}
+{"Make":"Mitsubishi","Model":"Eclipse","Year":"2024","Price":35000,"Id":"e380e976-ca4b-4d56-b194-a67430c53e5c"}
+{"Make":"honda","Model":"civic","Year":"2006","Price":5000,"Id":"ac5fddfa-e8dd-4621-a103-724aca8072de"}
+{"Make":"Toyota","Model":"Celica","Year":"2003","Price":3450,"Id":"b8002f79-4f91-40fa-aace-30aaf412850e"}
+{"Make":"honda","Model":"civic","Year":"2020","Price":20000,"Id":"5d14af7f-0b57-4a86-8854-0726a6ccee8d"}
+{"Make":"toyota","Model":"tundra","Year":"2003","Price":4500,"Id":"358a7d81-772c-4058-ad16-05ea9228332c"}
